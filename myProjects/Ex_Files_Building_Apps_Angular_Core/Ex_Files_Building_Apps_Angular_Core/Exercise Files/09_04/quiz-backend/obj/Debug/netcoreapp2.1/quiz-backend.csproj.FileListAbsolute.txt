@@ -1,0 +1,11 @@
+C:\Users\togo\Downloads\Ex_Files_Building_Apps_Angular_Core\Ex_Files_Building_Apps_Angular_Core\Exercise Files\09_04\quiz-backend\bin\Debug\netcoreapp2.1\quiz-backend.deps.json
+C:\Users\togo\Downloads\Ex_Files_Building_Apps_Angular_Core\Ex_Files_Building_Apps_Angular_Core\Exercise Files\09_04\quiz-backend\bin\Debug\netcoreapp2.1\quiz-backend.runtimeconfig.json
+C:\Users\togo\Downloads\Ex_Files_Building_Apps_Angular_Core\Ex_Files_Building_Apps_Angular_Core\Exercise Files\09_04\quiz-backend\bin\Debug\netcoreapp2.1\quiz-backend.runtimeconfig.dev.json
+C:\Users\togo\Downloads\Ex_Files_Building_Apps_Angular_Core\Ex_Files_Building_Apps_Angular_Core\Exercise Files\09_04\quiz-backend\bin\Debug\netcoreapp2.1\quiz-backend.dll
+C:\Users\togo\Downloads\Ex_Files_Building_Apps_Angular_Core\Ex_Files_Building_Apps_Angular_Core\Exercise Files\09_04\quiz-backend\bin\Debug\netcoreapp2.1\quiz-backend.pdb
+C:\Users\togo\Downloads\Ex_Files_Building_Apps_Angular_Core\Ex_Files_Building_Apps_Angular_Core\Exercise Files\09_04\quiz-backend\obj\Debug\netcoreapp2.1\quiz-backend.csprojAssemblyReference.cache
+C:\Users\togo\Downloads\Ex_Files_Building_Apps_Angular_Core\Ex_Files_Building_Apps_Angular_Core\Exercise Files\09_04\quiz-backend\obj\Debug\netcoreapp2.1\quiz-backend.csproj.CoreCompileInputs.cache
+C:\Users\togo\Downloads\Ex_Files_Building_Apps_Angular_Core\Ex_Files_Building_Apps_Angular_Core\Exercise Files\09_04\quiz-backend\obj\Debug\netcoreapp2.1\quiz-backend.AssemblyInfoInputs.cache
+C:\Users\togo\Downloads\Ex_Files_Building_Apps_Angular_Core\Ex_Files_Building_Apps_Angular_Core\Exercise Files\09_04\quiz-backend\obj\Debug\netcoreapp2.1\quiz-backend.AssemblyInfo.cs
+C:\Users\togo\Downloads\Ex_Files_Building_Apps_Angular_Core\Ex_Files_Building_Apps_Angular_Core\Exercise Files\09_04\quiz-backend\obj\Debug\netcoreapp2.1\quiz-backend.dll
+C:\Users\togo\Downloads\Ex_Files_Building_Apps_Angular_Core\Ex_Files_Building_Apps_Angular_Core\Exercise Files\09_04\quiz-backend\obj\Debug\netcoreapp2.1\quiz-backend.pdb

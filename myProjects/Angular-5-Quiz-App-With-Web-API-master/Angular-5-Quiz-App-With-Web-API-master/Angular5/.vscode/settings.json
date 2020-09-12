@@ -1,0 +1,7 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}"
+    ],
+    "appService.deploySubpath": "src\\app",
+    "appService.defaultWebAppToDeploy": "/subscriptions/b39d1bf5-42af-4ff4-9c70-c3b7eed7ee66/resourceGroups/appsvc_rg_linux_centralus/providers/Microsoft.Web/sites/Angular5QuizApp"
+}

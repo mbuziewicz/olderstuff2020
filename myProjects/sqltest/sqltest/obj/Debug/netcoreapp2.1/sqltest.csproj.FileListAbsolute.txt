@@ -1,0 +1,11 @@
+C:\Users\togo\source\repos\sqltest\sqltest\bin\Debug\netcoreapp2.1\sqltest.deps.json
+C:\Users\togo\source\repos\sqltest\sqltest\bin\Debug\netcoreapp2.1\sqltest.runtimeconfig.json
+C:\Users\togo\source\repos\sqltest\sqltest\bin\Debug\netcoreapp2.1\sqltest.runtimeconfig.dev.json
+C:\Users\togo\source\repos\sqltest\sqltest\bin\Debug\netcoreapp2.1\sqltest.dll
+C:\Users\togo\source\repos\sqltest\sqltest\obj\Debug\netcoreapp2.1\sqltest.csprojAssemblyReference.cache
+C:\Users\togo\source\repos\sqltest\sqltest\obj\Debug\netcoreapp2.1\sqltest.csproj.CoreCompileInputs.cache
+C:\Users\togo\source\repos\sqltest\sqltest\obj\Debug\netcoreapp2.1\sqltest.AssemblyInfoInputs.cache
+C:\Users\togo\source\repos\sqltest\sqltest\obj\Debug\netcoreapp2.1\sqltest.AssemblyInfo.cs
+C:\Users\togo\source\repos\sqltest\sqltest\bin\Debug\netcoreapp2.1\sqltest.pdb
+C:\Users\togo\source\repos\sqltest\sqltest\obj\Debug\netcoreapp2.1\sqltest.dll
+C:\Users\togo\source\repos\sqltest\sqltest\obj\Debug\netcoreapp2.1\sqltest.pdb

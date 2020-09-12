@@ -1,0 +1,10 @@
+C:\Users\togo\Downloads\ngQuiz-master\ngQuiz-master\ngQuiz\ngQuiz\bin\ngQuiz.dll.config
+C:\Users\togo\Downloads\ngQuiz-master\ngQuiz-master\ngQuiz\ngQuiz\bin\ngQuiz.dll
+C:\Users\togo\Downloads\ngQuiz-master\ngQuiz-master\ngQuiz\ngQuiz\bin\ngQuiz.pdb
+C:\Users\togo\Downloads\ngQuiz-master\ngQuiz-master\ngQuiz\ngQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\togo\Downloads\ngQuiz-master\ngQuiz-master\ngQuiz\ngQuiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\togo\Downloads\ngQuiz-master\ngQuiz-master\ngQuiz\ngQuiz\obj\Debug\ngQuiz.csprojAssemblyReference.cache
+C:\Users\togo\Downloads\ngQuiz-master\ngQuiz-master\ngQuiz\ngQuiz\obj\Debug\ngQuiz.csproj.CoreCompileInputs.cache
+C:\Users\togo\Downloads\ngQuiz-master\ngQuiz-master\ngQuiz\ngQuiz\obj\Debug\ngQuiz.csproj.CopyComplete
+C:\Users\togo\Downloads\ngQuiz-master\ngQuiz-master\ngQuiz\ngQuiz\obj\Debug\ngQuiz.dll
+C:\Users\togo\Downloads\ngQuiz-master\ngQuiz-master\ngQuiz\ngQuiz\obj\Debug\ngQuiz.pdb

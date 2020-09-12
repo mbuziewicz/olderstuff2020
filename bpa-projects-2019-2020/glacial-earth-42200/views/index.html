@@ -1,0 +1,20 @@
+<html>
+    <head></head>
+    <body>
+        <h1>Node Blog</h1>
+        <a href="/cart">Cart</a>
+        <a href="/products">Products</a>
+        <a href="/products_crud/">Products list</a>
+        <% for(let i = 0; i < posts.length; i++) { %>
+            <article>
+                <p><%= posts[i].body %></p>
+            </article>
+        <% } %>
+
+
+        <form action="addpost" method="POST">
+            <textarea name="body"></textarea>
+            <input type="submit" value="Add Post" />
+        </form>
+    </body>
+</html>

@@ -1,0 +1,11 @@
+C:\Users\togo\Downloads\cu-part8\bin\Debug\netcoreapp2.1\ContosoUniversity.deps.json
+C:\Users\togo\Downloads\cu-part8\bin\Debug\netcoreapp2.1\ContosoUniversity.runtimeconfig.json
+C:\Users\togo\Downloads\cu-part8\bin\Debug\netcoreapp2.1\ContosoUniversity.runtimeconfig.dev.json
+C:\Users\togo\Downloads\cu-part8\bin\Debug\netcoreapp2.1\ContosoUniversity.dll
+C:\Users\togo\Downloads\cu-part8\bin\Debug\netcoreapp2.1\ContosoUniversity.pdb
+C:\Users\togo\Downloads\cu-part8\obj\Debug\netcoreapp2.1\ContosoUniversity.csprojAssemblyReference.cache
+C:\Users\togo\Downloads\cu-part8\obj\Debug\netcoreapp2.1\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\Users\togo\Downloads\cu-part8\obj\Debug\netcoreapp2.1\ContosoUniversity.AssemblyInfoInputs.cache
+C:\Users\togo\Downloads\cu-part8\obj\Debug\netcoreapp2.1\ContosoUniversity.AssemblyInfo.cs
+C:\Users\togo\Downloads\cu-part8\obj\Debug\netcoreapp2.1\ContosoUniversity.dll
+C:\Users\togo\Downloads\cu-part8\obj\Debug\netcoreapp2.1\ContosoUniversity.pdb
